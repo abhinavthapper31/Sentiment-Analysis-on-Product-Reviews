@@ -21,7 +21,7 @@ We created 4 models for  classifying namely Logistic Regression, GaussianNB, Mul
 Logistic Regression gave the best reslts with 78% accuracy and and F1 score of 81%.where as Decision Tree Classifier
 performed the worst.
 
-![alt text](https://raw.githubusercontent.com/abhinavthapper31/Amazom-Product-Reviews/path/to/Figure_1.png)
+https://github.com/abhinavthapper31/Amazon-Product-Reviews/blob/master/Figure_1.png
 
 Conclusion : Try other methods like SVC and XGBoost to check if accuracy increases. Also try other ways of vectorising
 Word2Vec, Doc2Vec etc..
